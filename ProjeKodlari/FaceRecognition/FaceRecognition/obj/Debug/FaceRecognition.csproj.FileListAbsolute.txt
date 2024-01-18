@@ -1,0 +1,157 @@
+C:\Users\Administrator\source\repos\FaceRecognition\FaceRecognition\bin\Debug\FaceRecognition.exe.config
+C:\Users\Administrator\source\repos\FaceRecognition\FaceRecognition\bin\Debug\FaceRecognition.exe
+C:\Users\Administrator\source\repos\FaceRecognition\FaceRecognition\bin\Debug\FaceRecognition.pdb
+C:\Users\Administrator\source\repos\FaceRecognition\FaceRecognition\obj\Debug\FaceRecognition.FaceInsertionForm.resources
+C:\Users\Administrator\source\repos\FaceRecognition\FaceRecognition\obj\Debug\FaceRecognition.LoginScreen.resources
+C:\Users\Administrator\source\repos\FaceRecognition\FaceRecognition\obj\Debug\FaceRecognition.Properties.Resources.resources
+C:\Users\Administrator\source\repos\FaceRecognition\FaceRecognition\obj\Debug\FaceRecognition.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\FaceRecognition\FaceRecognition\obj\Debug\FaceRecognition.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\FaceRecognition\FaceRecognition\obj\Debug\FaceRecognition.exe
+C:\Users\Administrator\source\repos\FaceRecognition\FaceRecognition\obj\Debug\FaceRecognition.pdb
+C:\Users\Administrator\source\repos\FaceRecognition\FaceRecognition\obj\Debug\FaceRecognition.FaceScan.resources
+C:\Users\Administrator\source\repos\FaceRecognition\FaceRecognition\obj\Debug\FaceRecognition.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\FaceRecognition\FaceRecognition\bin\Debug\ZedGraph.dll
+C:\Users\Administrator\source\repos\FaceRecognition\FaceRecognition\bin\Debug\Emgu.CV.xml
+C:\Users\Administrator\source\repos\FaceRecognition\FaceRecognition\bin\Debug\Emgu.CV.GPU.xml
+C:\Users\Administrator\source\repos\FaceRecognition\FaceRecognition\bin\Debug\Emgu.CV.ML.xml
+C:\Users\Administrator\source\repos\FaceRecognition\FaceRecognition\bin\Debug\Emgu.CV.OCR.xml
+C:\Users\Administrator\source\repos\FaceRecognition\FaceRecognition\bin\Debug\Emgu.CV.OpenCL.xml
+C:\Users\Administrator\source\repos\FaceRecognition\FaceRecognition\bin\Debug\Emgu.CV.Stitching.xml
+C:\Users\Administrator\source\repos\FaceRecognition\FaceRecognition\bin\Debug\Emgu.CV.UI.xml
+C:\Users\Administrator\source\repos\FaceRecognition\FaceRecognition\bin\Debug\Emgu.CV.VideoStab.xml
+C:\Users\Administrator\source\repos\FaceRecognition\FaceRecognition\bin\Debug\Emgu.Util.xml
+C:\Users\Administrator\source\repos\FaceRecognition\FaceRecognition\obj\Debug\FaceRecognition.csproj.CopyComplete
+C:\FaceRecognition\FaceRecognition\obj\Debug\FaceRecognition.csprojAssemblyReference.cache
+C:\FaceRecognition\FaceRecognition\obj\Debug\FaceRecognition.FaceInsertionForm.resources
+C:\FaceRecognition\FaceRecognition\obj\Debug\FaceRecognition.LoginScreen.resources
+C:\FaceRecognition\FaceRecognition\obj\Debug\FaceRecognition.Properties.Resources.resources
+C:\FaceRecognition\FaceRecognition\obj\Debug\FaceRecognition.csproj.GenerateResource.cache
+C:\FaceRecognition\FaceRecognition\obj\Debug\FaceRecognition.csproj.CoreCompileInputs.cache
+C:\FaceRecognition\FaceRecognition\obj\Debug\FaceRecognition.exe
+C:\FaceRecognition\FaceRecognition\obj\Debug\FaceRecognition.pdb
+C:\FaceRecognition\FaceRecognition\bin\Debug\FaceRecognition.exe.config
+C:\FaceRecognition\FaceRecognition\bin\Debug\FaceRecognition.exe
+C:\FaceRecognition\FaceRecognition\bin\Debug\FaceRecognition.pdb
+C:\FaceRecognition\FaceRecognition\bin\Debug\ZedGraph.dll
+C:\FaceRecognition\FaceRecognition\bin\Debug\Emgu.CV.xml
+C:\FaceRecognition\FaceRecognition\bin\Debug\Emgu.CV.GPU.xml
+C:\FaceRecognition\FaceRecognition\bin\Debug\Emgu.CV.ML.xml
+C:\FaceRecognition\FaceRecognition\bin\Debug\Emgu.CV.OCR.xml
+C:\FaceRecognition\FaceRecognition\bin\Debug\Emgu.CV.OpenCL.xml
+C:\FaceRecognition\FaceRecognition\bin\Debug\Emgu.CV.Stitching.xml
+C:\FaceRecognition\FaceRecognition\bin\Debug\Emgu.CV.UI.xml
+C:\FaceRecognition\FaceRecognition\bin\Debug\Emgu.CV.VideoStab.xml
+C:\FaceRecognition\FaceRecognition\bin\Debug\Emgu.Util.xml
+C:\FaceRecognition\FaceRecognition\obj\Debug\FaceRecognition.csproj.CopyComplete
+E:\FaceRecognition\FaceRecognition\bin\Debug\FaceRecognition.exe.config
+E:\FaceRecognition\FaceRecognition\bin\Debug\FaceRecognition.exe
+E:\FaceRecognition\FaceRecognition\bin\Debug\FaceRecognition.pdb
+E:\FaceRecognition\FaceRecognition\bin\Debug\ZedGraph.dll
+E:\FaceRecognition\FaceRecognition\bin\Debug\Emgu.CV.xml
+E:\FaceRecognition\FaceRecognition\bin\Debug\Emgu.CV.GPU.xml
+E:\FaceRecognition\FaceRecognition\bin\Debug\Emgu.CV.ML.xml
+E:\FaceRecognition\FaceRecognition\bin\Debug\Emgu.CV.OCR.xml
+E:\FaceRecognition\FaceRecognition\bin\Debug\Emgu.CV.OpenCL.xml
+E:\FaceRecognition\FaceRecognition\bin\Debug\Emgu.CV.Stitching.xml
+E:\FaceRecognition\FaceRecognition\bin\Debug\Emgu.CV.UI.xml
+E:\FaceRecognition\FaceRecognition\bin\Debug\Emgu.CV.VideoStab.xml
+E:\FaceRecognition\FaceRecognition\bin\Debug\Emgu.Util.xml
+E:\FaceRecognition\FaceRecognition\obj\Debug\FaceRecognition.csprojAssemblyReference.cache
+E:\FaceRecognition\FaceRecognition\obj\Debug\FaceRecognition.FaceInsertionForm.resources
+E:\FaceRecognition\FaceRecognition\obj\Debug\FaceRecognition.LoginScreen.resources
+E:\FaceRecognition\FaceRecognition\obj\Debug\FaceRecognition.Properties.Resources.resources
+E:\FaceRecognition\FaceRecognition\obj\Debug\FaceRecognition.csproj.GenerateResource.cache
+E:\FaceRecognition\FaceRecognition\obj\Debug\FaceRecognition.csproj.CoreCompileInputs.cache
+E:\FaceRecognition\FaceRecognition\obj\Debug\FaceRecognition.csproj.CopyComplete
+E:\FaceRecognition\FaceRecognition\obj\Debug\FaceRecognition.exe
+E:\FaceRecognition\FaceRecognition\obj\Debug\FaceRecognition.pdb
+C:\Users\Administrator\Desktop\Staj_I\ProjeKodlari\FaceRecognition\FaceRecognition\bin\Debug\FaceRecognition.exe.config
+C:\Users\Administrator\Desktop\Staj_I\ProjeKodlari\FaceRecognition\FaceRecognition\bin\Debug\FaceRecognition.exe
+C:\Users\Administrator\Desktop\Staj_I\ProjeKodlari\FaceRecognition\FaceRecognition\bin\Debug\FaceRecognition.pdb
+C:\Users\Administrator\Desktop\Staj_I\ProjeKodlari\FaceRecognition\FaceRecognition\bin\Debug\ZedGraph.dll
+C:\Users\Administrator\Desktop\Staj_I\ProjeKodlari\FaceRecognition\FaceRecognition\bin\Debug\Emgu.CV.xml
+C:\Users\Administrator\Desktop\Staj_I\ProjeKodlari\FaceRecognition\FaceRecognition\bin\Debug\Emgu.CV.GPU.xml
+C:\Users\Administrator\Desktop\Staj_I\ProjeKodlari\FaceRecognition\FaceRecognition\bin\Debug\Emgu.CV.ML.xml
+C:\Users\Administrator\Desktop\Staj_I\ProjeKodlari\FaceRecognition\FaceRecognition\bin\Debug\Emgu.CV.OCR.xml
+C:\Users\Administrator\Desktop\Staj_I\ProjeKodlari\FaceRecognition\FaceRecognition\bin\Debug\Emgu.CV.OpenCL.xml
+C:\Users\Administrator\Desktop\Staj_I\ProjeKodlari\FaceRecognition\FaceRecognition\bin\Debug\Emgu.CV.Stitching.xml
+C:\Users\Administrator\Desktop\Staj_I\ProjeKodlari\FaceRecognition\FaceRecognition\bin\Debug\Emgu.CV.UI.xml
+C:\Users\Administrator\Desktop\Staj_I\ProjeKodlari\FaceRecognition\FaceRecognition\bin\Debug\Emgu.CV.VideoStab.xml
+C:\Users\Administrator\Desktop\Staj_I\ProjeKodlari\FaceRecognition\FaceRecognition\bin\Debug\Emgu.Util.xml
+C:\Users\Administrator\Desktop\Staj_I\ProjeKodlari\FaceRecognition\FaceRecognition\obj\Debug\FaceRecognition.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\Staj_I\ProjeKodlari\FaceRecognition\FaceRecognition\obj\Debug\FaceRecognition.FaceInsertionForm.resources
+C:\Users\Administrator\Desktop\Staj_I\ProjeKodlari\FaceRecognition\FaceRecognition\obj\Debug\FaceRecognition.LoginScreen.resources
+C:\Users\Administrator\Desktop\Staj_I\ProjeKodlari\FaceRecognition\FaceRecognition\obj\Debug\FaceRecognition.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Staj_I\ProjeKodlari\FaceRecognition\FaceRecognition\obj\Debug\FaceRecognition.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\Staj_I\ProjeKodlari\FaceRecognition\FaceRecognition\obj\Debug\FaceRecognition.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Staj_I\ProjeKodlari\FaceRecognition\FaceRecognition\obj\Debug\FaceRecognition.csproj.CopyComplete
+C:\Users\Administrator\Desktop\Staj_I\ProjeKodlari\FaceRecognition\FaceRecognition\obj\Debug\FaceRecognition.exe
+C:\Users\Administrator\Desktop\Staj_I\ProjeKodlari\FaceRecognition\FaceRecognition\obj\Debug\FaceRecognition.pdb
+D:\Projelerim\Staj_Projeleri\EmircanKahveci\180106206044_EmircanKahveci_Staj_I_Proje\180106206044_EmircanKahveci_Staj_I_Proje\ProjeKodlari\FaceRecognition\FaceRecognition\bin\Debug\FaceRecognition.exe.config
+D:\Projelerim\Staj_Projeleri\EmircanKahveci\180106206044_EmircanKahveci_Staj_I_Proje\180106206044_EmircanKahveci_Staj_I_Proje\ProjeKodlari\FaceRecognition\FaceRecognition\bin\Debug\FaceRecognition.exe
+D:\Projelerim\Staj_Projeleri\EmircanKahveci\180106206044_EmircanKahveci_Staj_I_Proje\180106206044_EmircanKahveci_Staj_I_Proje\ProjeKodlari\FaceRecognition\FaceRecognition\bin\Debug\FaceRecognition.pdb
+D:\Projelerim\Staj_Projeleri\EmircanKahveci\180106206044_EmircanKahveci_Staj_I_Proje\180106206044_EmircanKahveci_Staj_I_Proje\ProjeKodlari\FaceRecognition\FaceRecognition\bin\Debug\ZedGraph.dll
+D:\Projelerim\Staj_Projeleri\EmircanKahveci\180106206044_EmircanKahveci_Staj_I_Proje\180106206044_EmircanKahveci_Staj_I_Proje\ProjeKodlari\FaceRecognition\FaceRecognition\bin\Debug\Emgu.CV.xml
+D:\Projelerim\Staj_Projeleri\EmircanKahveci\180106206044_EmircanKahveci_Staj_I_Proje\180106206044_EmircanKahveci_Staj_I_Proje\ProjeKodlari\FaceRecognition\FaceRecognition\bin\Debug\Emgu.CV.GPU.xml
+D:\Projelerim\Staj_Projeleri\EmircanKahveci\180106206044_EmircanKahveci_Staj_I_Proje\180106206044_EmircanKahveci_Staj_I_Proje\ProjeKodlari\FaceRecognition\FaceRecognition\bin\Debug\Emgu.CV.ML.xml
+D:\Projelerim\Staj_Projeleri\EmircanKahveci\180106206044_EmircanKahveci_Staj_I_Proje\180106206044_EmircanKahveci_Staj_I_Proje\ProjeKodlari\FaceRecognition\FaceRecognition\bin\Debug\Emgu.CV.OCR.xml
+D:\Projelerim\Staj_Projeleri\EmircanKahveci\180106206044_EmircanKahveci_Staj_I_Proje\180106206044_EmircanKahveci_Staj_I_Proje\ProjeKodlari\FaceRecognition\FaceRecognition\bin\Debug\Emgu.CV.OpenCL.xml
+D:\Projelerim\Staj_Projeleri\EmircanKahveci\180106206044_EmircanKahveci_Staj_I_Proje\180106206044_EmircanKahveci_Staj_I_Proje\ProjeKodlari\FaceRecognition\FaceRecognition\bin\Debug\Emgu.CV.Stitching.xml
+D:\Projelerim\Staj_Projeleri\EmircanKahveci\180106206044_EmircanKahveci_Staj_I_Proje\180106206044_EmircanKahveci_Staj_I_Proje\ProjeKodlari\FaceRecognition\FaceRecognition\bin\Debug\Emgu.CV.UI.xml
+D:\Projelerim\Staj_Projeleri\EmircanKahveci\180106206044_EmircanKahveci_Staj_I_Proje\180106206044_EmircanKahveci_Staj_I_Proje\ProjeKodlari\FaceRecognition\FaceRecognition\bin\Debug\Emgu.CV.VideoStab.xml
+D:\Projelerim\Staj_Projeleri\EmircanKahveci\180106206044_EmircanKahveci_Staj_I_Proje\180106206044_EmircanKahveci_Staj_I_Proje\ProjeKodlari\FaceRecognition\FaceRecognition\bin\Debug\Emgu.Util.xml
+D:\Projelerim\Staj_Projeleri\EmircanKahveci\180106206044_EmircanKahveci_Staj_I_Proje\180106206044_EmircanKahveci_Staj_I_Proje\ProjeKodlari\FaceRecognition\FaceRecognition\obj\Debug\FaceRecognition.csprojAssemblyReference.cache
+D:\Projelerim\Staj_Projeleri\EmircanKahveci\180106206044_EmircanKahveci_Staj_I_Proje\180106206044_EmircanKahveci_Staj_I_Proje\ProjeKodlari\FaceRecognition\FaceRecognition\obj\Debug\FaceRecognition.FaceInsertionForm.resources
+D:\Projelerim\Staj_Projeleri\EmircanKahveci\180106206044_EmircanKahveci_Staj_I_Proje\180106206044_EmircanKahveci_Staj_I_Proje\ProjeKodlari\FaceRecognition\FaceRecognition\obj\Debug\FaceRecognition.LoginScreen.resources
+D:\Projelerim\Staj_Projeleri\EmircanKahveci\180106206044_EmircanKahveci_Staj_I_Proje\180106206044_EmircanKahveci_Staj_I_Proje\ProjeKodlari\FaceRecognition\FaceRecognition\obj\Debug\FaceRecognition.Properties.Resources.resources
+D:\Projelerim\Staj_Projeleri\EmircanKahveci\180106206044_EmircanKahveci_Staj_I_Proje\180106206044_EmircanKahveci_Staj_I_Proje\ProjeKodlari\FaceRecognition\FaceRecognition\obj\Debug\FaceRecognition.csproj.GenerateResource.cache
+D:\Projelerim\Staj_Projeleri\EmircanKahveci\180106206044_EmircanKahveci_Staj_I_Proje\180106206044_EmircanKahveci_Staj_I_Proje\ProjeKodlari\FaceRecognition\FaceRecognition\obj\Debug\FaceRecognition.csproj.CoreCompileInputs.cache
+D:\Projelerim\Staj_Projeleri\EmircanKahveci\180106206044_EmircanKahveci_Staj_I_Proje\180106206044_EmircanKahveci_Staj_I_Proje\ProjeKodlari\FaceRecognition\FaceRecognition\obj\Debug\FaceRecognition.csproj.CopyComplete
+D:\Projelerim\Staj_Projeleri\EmircanKahveci\180106206044_EmircanKahveci_Staj_I_Proje\180106206044_EmircanKahveci_Staj_I_Proje\ProjeKodlari\FaceRecognition\FaceRecognition\obj\Debug\FaceRecognition.exe
+D:\Projelerim\Staj_Projeleri\EmircanKahveci\180106206044_EmircanKahveci_Staj_I_Proje\180106206044_EmircanKahveci_Staj_I_Proje\ProjeKodlari\FaceRecognition\FaceRecognition\obj\Debug\FaceRecognition.pdb
+F:\Disk D\Projelerim\Staj_Projeleri\EmircanKahveci\180106206044_EmircanKahveci_Staj_I_Proje\180106206044_EmircanKahveci_Staj_I_Proje\ProjeKodlari\FaceRecognition\FaceRecognition\bin\Debug\FaceRecognition.exe.config
+F:\Disk D\Projelerim\Staj_Projeleri\EmircanKahveci\180106206044_EmircanKahveci_Staj_I_Proje\180106206044_EmircanKahveci_Staj_I_Proje\ProjeKodlari\FaceRecognition\FaceRecognition\bin\Debug\FaceRecognition.exe
+F:\Disk D\Projelerim\Staj_Projeleri\EmircanKahveci\180106206044_EmircanKahveci_Staj_I_Proje\180106206044_EmircanKahveci_Staj_I_Proje\ProjeKodlari\FaceRecognition\FaceRecognition\bin\Debug\FaceRecognition.pdb
+F:\Disk D\Projelerim\Staj_Projeleri\EmircanKahveci\180106206044_EmircanKahveci_Staj_I_Proje\180106206044_EmircanKahveci_Staj_I_Proje\ProjeKodlari\FaceRecognition\FaceRecognition\bin\Debug\ZedGraph.dll
+F:\Disk D\Projelerim\Staj_Projeleri\EmircanKahveci\180106206044_EmircanKahveci_Staj_I_Proje\180106206044_EmircanKahveci_Staj_I_Proje\ProjeKodlari\FaceRecognition\FaceRecognition\bin\Debug\Emgu.CV.xml
+F:\Disk D\Projelerim\Staj_Projeleri\EmircanKahveci\180106206044_EmircanKahveci_Staj_I_Proje\180106206044_EmircanKahveci_Staj_I_Proje\ProjeKodlari\FaceRecognition\FaceRecognition\bin\Debug\Emgu.CV.GPU.xml
+F:\Disk D\Projelerim\Staj_Projeleri\EmircanKahveci\180106206044_EmircanKahveci_Staj_I_Proje\180106206044_EmircanKahveci_Staj_I_Proje\ProjeKodlari\FaceRecognition\FaceRecognition\bin\Debug\Emgu.CV.ML.xml
+F:\Disk D\Projelerim\Staj_Projeleri\EmircanKahveci\180106206044_EmircanKahveci_Staj_I_Proje\180106206044_EmircanKahveci_Staj_I_Proje\ProjeKodlari\FaceRecognition\FaceRecognition\bin\Debug\Emgu.CV.OCR.xml
+F:\Disk D\Projelerim\Staj_Projeleri\EmircanKahveci\180106206044_EmircanKahveci_Staj_I_Proje\180106206044_EmircanKahveci_Staj_I_Proje\ProjeKodlari\FaceRecognition\FaceRecognition\bin\Debug\Emgu.CV.OpenCL.xml
+F:\Disk D\Projelerim\Staj_Projeleri\EmircanKahveci\180106206044_EmircanKahveci_Staj_I_Proje\180106206044_EmircanKahveci_Staj_I_Proje\ProjeKodlari\FaceRecognition\FaceRecognition\bin\Debug\Emgu.CV.Stitching.xml
+F:\Disk D\Projelerim\Staj_Projeleri\EmircanKahveci\180106206044_EmircanKahveci_Staj_I_Proje\180106206044_EmircanKahveci_Staj_I_Proje\ProjeKodlari\FaceRecognition\FaceRecognition\bin\Debug\Emgu.CV.UI.xml
+F:\Disk D\Projelerim\Staj_Projeleri\EmircanKahveci\180106206044_EmircanKahveci_Staj_I_Proje\180106206044_EmircanKahveci_Staj_I_Proje\ProjeKodlari\FaceRecognition\FaceRecognition\bin\Debug\Emgu.CV.VideoStab.xml
+F:\Disk D\Projelerim\Staj_Projeleri\EmircanKahveci\180106206044_EmircanKahveci_Staj_I_Proje\180106206044_EmircanKahveci_Staj_I_Proje\ProjeKodlari\FaceRecognition\FaceRecognition\bin\Debug\Emgu.Util.xml
+F:\Disk D\Projelerim\Staj_Projeleri\EmircanKahveci\180106206044_EmircanKahveci_Staj_I_Proje\180106206044_EmircanKahveci_Staj_I_Proje\ProjeKodlari\FaceRecognition\FaceRecognition\obj\Debug\FaceRecognition.csproj.AssemblyReference.cache
+F:\Disk D\Projelerim\Staj_Projeleri\EmircanKahveci\180106206044_EmircanKahveci_Staj_I_Proje\180106206044_EmircanKahveci_Staj_I_Proje\ProjeKodlari\FaceRecognition\FaceRecognition\obj\Debug\FaceRecognition.csproj.SuggestedBindingRedirects.cache
+F:\Disk D\Projelerim\Staj_Projeleri\EmircanKahveci\180106206044_EmircanKahveci_Staj_I_Proje\180106206044_EmircanKahveci_Staj_I_Proje\ProjeKodlari\FaceRecognition\FaceRecognition\obj\Debug\FaceRecognition.FaceInsertionForm.resources
+F:\Disk D\Projelerim\Staj_Projeleri\EmircanKahveci\180106206044_EmircanKahveci_Staj_I_Proje\180106206044_EmircanKahveci_Staj_I_Proje\ProjeKodlari\FaceRecognition\FaceRecognition\obj\Debug\FaceRecognition.LoginScreen.resources
+F:\Disk D\Projelerim\Staj_Projeleri\EmircanKahveci\180106206044_EmircanKahveci_Staj_I_Proje\180106206044_EmircanKahveci_Staj_I_Proje\ProjeKodlari\FaceRecognition\FaceRecognition\obj\Debug\FaceRecognition.Properties.Resources.resources
+F:\Disk D\Projelerim\Staj_Projeleri\EmircanKahveci\180106206044_EmircanKahveci_Staj_I_Proje\180106206044_EmircanKahveci_Staj_I_Proje\ProjeKodlari\FaceRecognition\FaceRecognition\obj\Debug\FaceRecognition.csproj.GenerateResource.cache
+F:\Disk D\Projelerim\Staj_Projeleri\EmircanKahveci\180106206044_EmircanKahveci_Staj_I_Proje\180106206044_EmircanKahveci_Staj_I_Proje\ProjeKodlari\FaceRecognition\FaceRecognition\obj\Debug\FaceRecognition.csproj.CoreCompileInputs.cache
+F:\Disk D\Projelerim\Staj_Projeleri\EmircanKahveci\180106206044_EmircanKahveci_Staj_I_Proje\180106206044_EmircanKahveci_Staj_I_Proje\ProjeKodlari\FaceRecognition\FaceRecognition\obj\Debug\FaceRecognition.csproj.CopyComplete
+F:\Disk D\Projelerim\Staj_Projeleri\EmircanKahveci\180106206044_EmircanKahveci_Staj_I_Proje\180106206044_EmircanKahveci_Staj_I_Proje\ProjeKodlari\FaceRecognition\FaceRecognition\obj\Debug\FaceRecognition.exe
+F:\Disk D\Projelerim\Staj_Projeleri\EmircanKahveci\180106206044_EmircanKahveci_Staj_I_Proje\180106206044_EmircanKahveci_Staj_I_Proje\ProjeKodlari\FaceRecognition\FaceRecognition\obj\Debug\FaceRecognition.pdb
+D:\EmguCV_YuzTanimaSistemi\ProjeKodlari\FaceRecognition\FaceRecognition\bin\Debug\FaceRecognition.exe.config
+D:\EmguCV_YuzTanimaSistemi\ProjeKodlari\FaceRecognition\FaceRecognition\bin\Debug\FaceRecognition.exe
+D:\EmguCV_YuzTanimaSistemi\ProjeKodlari\FaceRecognition\FaceRecognition\bin\Debug\FaceRecognition.pdb
+D:\EmguCV_YuzTanimaSistemi\ProjeKodlari\FaceRecognition\FaceRecognition\bin\Debug\ZedGraph.dll
+D:\EmguCV_YuzTanimaSistemi\ProjeKodlari\FaceRecognition\FaceRecognition\bin\Debug\Emgu.CV.xml
+D:\EmguCV_YuzTanimaSistemi\ProjeKodlari\FaceRecognition\FaceRecognition\bin\Debug\Emgu.CV.GPU.xml
+D:\EmguCV_YuzTanimaSistemi\ProjeKodlari\FaceRecognition\FaceRecognition\bin\Debug\Emgu.CV.ML.xml
+D:\EmguCV_YuzTanimaSistemi\ProjeKodlari\FaceRecognition\FaceRecognition\bin\Debug\Emgu.CV.OCR.xml
+D:\EmguCV_YuzTanimaSistemi\ProjeKodlari\FaceRecognition\FaceRecognition\bin\Debug\Emgu.CV.OpenCL.xml
+D:\EmguCV_YuzTanimaSistemi\ProjeKodlari\FaceRecognition\FaceRecognition\bin\Debug\Emgu.CV.Stitching.xml
+D:\EmguCV_YuzTanimaSistemi\ProjeKodlari\FaceRecognition\FaceRecognition\bin\Debug\Emgu.CV.UI.xml
+D:\EmguCV_YuzTanimaSistemi\ProjeKodlari\FaceRecognition\FaceRecognition\bin\Debug\Emgu.CV.VideoStab.xml
+D:\EmguCV_YuzTanimaSistemi\ProjeKodlari\FaceRecognition\FaceRecognition\bin\Debug\Emgu.Util.xml
+D:\EmguCV_YuzTanimaSistemi\ProjeKodlari\FaceRecognition\FaceRecognition\obj\Debug\FaceRecognition.csproj.AssemblyReference.cache
+D:\EmguCV_YuzTanimaSistemi\ProjeKodlari\FaceRecognition\FaceRecognition\obj\Debug\FaceRecognition.csproj.SuggestedBindingRedirects.cache
+D:\EmguCV_YuzTanimaSistemi\ProjeKodlari\FaceRecognition\FaceRecognition\obj\Debug\FaceRecognition.FaceInsertionForm.resources
+D:\EmguCV_YuzTanimaSistemi\ProjeKodlari\FaceRecognition\FaceRecognition\obj\Debug\FaceRecognition.LoginScreen.resources
+D:\EmguCV_YuzTanimaSistemi\ProjeKodlari\FaceRecognition\FaceRecognition\obj\Debug\FaceRecognition.Properties.Resources.resources
+D:\EmguCV_YuzTanimaSistemi\ProjeKodlari\FaceRecognition\FaceRecognition\obj\Debug\FaceRecognition.csproj.GenerateResource.cache
+D:\EmguCV_YuzTanimaSistemi\ProjeKodlari\FaceRecognition\FaceRecognition\obj\Debug\FaceRecognition.csproj.CoreCompileInputs.cache
+D:\EmguCV_YuzTanimaSistemi\ProjeKodlari\FaceRecognition\FaceRecognition\obj\Debug\FaceRecognition.csproj.CopyComplete
+D:\EmguCV_YuzTanimaSistemi\ProjeKodlari\FaceRecognition\FaceRecognition\obj\Debug\FaceRecognition.exe
+D:\EmguCV_YuzTanimaSistemi\ProjeKodlari\FaceRecognition\FaceRecognition\obj\Debug\FaceRecognition.pdb
